@@ -53,8 +53,7 @@ Responsive-Web-Layout/
 https://jampalaakhila6-beep.github.io/decodelabs-project2-responsive-website/
 
 ## GitHub Repository
-
-https://github.com/jampalaakhila6-beep/decodelabs-project2-responsive-website
+https://github.com/Yogender-verma/DecodeLab-2
 
 ## Author
 

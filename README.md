@@ -49,8 +49,7 @@ Responsive-Web-Layout/
     └── mobile.png
 
 ## Live Demo
-
-https://jampalaakhila6-beep.github.io/decodelabs-project2-responsive-website/
+https://yogender-verma.github.io/DecodeLab-2/
 
 ## GitHub Repository
 https://github.com/Yogender-verma/DecodeLab-2
